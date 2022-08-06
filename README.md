@@ -3,6 +3,7 @@
 - 👨‍💻 Técnico em redes de computadores 
 - 📫 Como entrar em contato comigo:
      - Instagram: @gabreu_.exe
+     - LinkedIn: @Gabriel Alves
 
 <!---
 gabreudev/gabreudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
