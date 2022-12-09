@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @gabreudev
-- 🤓 Atualmente atuo como estagiário na empresa meteora.
+- 🤓 Atualmente atuo como estagiário na empresa Meteora.
 - 👨‍💻 Técnico em redes de computadores 
 - 📫 Como entrar em contato comigo:
      - Instagram: @gabreu_.exe
