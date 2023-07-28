@@ -1,7 +1,8 @@
 - 👋 Olá, eu sou @gabreudev
-- 🤓 Atualmente atuo como estagiário na empresa Meteora.
 - 👨‍💻 Técnico em redes de computadores 
+- 🎓 Graduando em Sistemas de Informação - UFPI
 - 📫 Como entrar em contato comigo:
+     - biel0alves0@gmail.com
      - Instagram: @gabreu_.exe
      - LinkedIn: https://www.linkedin.com/in/gabriel-alves-621025241/
 
