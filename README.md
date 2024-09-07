@@ -2,7 +2,10 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-621025241/)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=gabreudev&show_icons=true&theme=dracula)
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabreudev&theme=dark&hide_border=true&bg_color=ffffff00&show_icons=true&title_color=808080" alt="KauaHen Status" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabreudev&&theme=dark&hide_border=true&bg_color=ffffff00&layout=compact&title_color=808081" alt="KauaHen Status"  />
+</div>
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
